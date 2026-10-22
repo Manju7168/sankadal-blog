@@ -33,3 +33,10 @@ if (location.hash.endsWith('-en')) savedLanguage = 'en';
 if (location.hash.endsWith('-kn')) savedLanguage = 'kn';
 setLanguage(savedLanguage);
 document.querySelector('h1').style.whiteSpace = 'pre-line';
+
+// Discourage casual image saving; browser-visible images cannot be copy-protected.
+document.querySelectorAll('img').forEach(image => {
+  image.draggable = false;
+  image.addEventListener('dragstart', event => event.preventDefault());
+  image.addEventListener('contextmenu', event => event.preventDefault());
+});

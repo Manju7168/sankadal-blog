@@ -20,3 +20,5 @@
 .source-figure.village-map{max-width:850px}.hero-byline{display:block;visibility:visible}
 
 .research-credit{font-size:14px;color:var(--ink);border-left:3px solid var(--accent);padding-left:16px;margin-top:24px}
+
+img{-webkit-user-drag:none;-webkit-touch-callout:none;user-select:none}
