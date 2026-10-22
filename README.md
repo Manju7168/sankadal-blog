@@ -23,7 +23,6 @@ Kannada text is in index.html. English translations are in the `english` object 
 
 ## Sources and imagery
 
-Factual content is attributed to all 13 pages of the user-shared Sankadal_Village_History_Census_Kannada.pdf. All 27 references, population/social-group/literacy/employment/land-use/amenity tables, administrative history, inscription evidence, community coverage, timeline and research gaps are retained. The old Kannada inscription transcription is preserved as a facsimile to avoid introducing transcription errors; a provisional line-by-line interpretation appears in both language editions. Original historical/census sources have not been independently verified. The inscription date is explicitly an estimate. The landscape is decorative CSS artwork, not a village photograph. No private email address or email link is included in the website.
 
 ## Phase two
 
