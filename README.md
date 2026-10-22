@@ -38,3 +38,5 @@ The complete source PDF and 13 page images preserve all illustrations, five char
 ## Presentation update
 
 Report page images have been removed from the blog and assets. The original Kannada report remains downloadable as a PDF. Manjunath Harakatti / ಮಂಜುನಾಥ ಹರಕತ್ತಿ appears in both the header and footer and follows the language selection.
+
+The Religious life and news section and its navigation/card links were removed from both language editions at the owner’s request. The original PDF download remains unchanged.
