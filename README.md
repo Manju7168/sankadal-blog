@@ -44,3 +44,5 @@ The Religious life and news section and its navigation/card links were removed f
 Two owner-supplied images now appear in the inscription section: the SII XVIII no.288 publication scan and the village satellite screenshot. Each has Kannada and English captions. The map pin is identified as a village label, not a verified temple location.
 
 The homepage decorative CSS illustration has been replaced with the owner-supplied village photograph, with bilingual caption and descriptive alt text.
+
+The complete report PDF and download section have been removed at the owner’s request.
