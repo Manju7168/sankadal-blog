@@ -16,3 +16,5 @@
 .author-portrait{position:relative;display:block;flex-shrink:0;width:68px;height:68px;border-radius:50%;overflow:hidden;border:2px solid #c8cfbe;background:#ddd}.author-portrait img{position:absolute;display:block;width:400%;max-width:none;height:auto;left:-137.5%;top:-162.5%}@media(max-width:760px){.author-portrait{width:60px;height:60px}.header .brand{gap:10px}}
 
 .hero-byline{font-size:15px;font-weight:500;color:var(--muted);margin:-8px 0 24px}.brand-text{display:block}
+
+.source-figure.village-map{max-width:850px}.hero-byline{display:block;visibility:visible}
