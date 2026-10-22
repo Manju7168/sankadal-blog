@@ -33,3 +33,8 @@ Comments may be added later. No comment system, contact form, visitor login, or 
 ## Source preservation and verification
 
 The complete source PDF and 13 page images preserve all illustrations, five charts, exact transcription, captions and fine detail. English prose is a reading translation of the Kannada report; source-page images remain Kannada. No historical or contemporary claims have been newly verified online. Dated news is labelled as information recorded in the report. Original images retain their source labels and watermarks. AI scenes are explicitly distinguished from the documentary inscription scan and satellite map.
+
+
+## Presentation update
+
+Report page images have been removed from the blog and assets. The original Kannada report remains downloadable as a PDF. Manjunath Harakatti / ಮಂಜುನಾಥ ಹರಕತ್ತಿ appears in both the header and footer and follows the language selection.
