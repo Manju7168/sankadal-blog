@@ -18,7 +18,6 @@ function setLanguage(language) {
     history.replaceState(null, '', nextHash);
     requestAnimationFrame(() => document.getElementById(nextHash.slice(1))?.scrollIntoView());
   }
-  document.querySelector('[data-author-photo]').alt = selected === 'en' ? 'Manjunath Harakatti' : 'ಮಂಜುನಾಥ ಹರಕತ್ತಿ';
   document.documentElement.lang = selected;
   document.title = selected === 'en' ? 'Sankadal | Our village, our stories' : 'ಸಂಕದಾಳ | ನಮ್ಮ ಊರು, ನಮ್ಮ ಕಥೆಗಳು';
   document.querySelector('nav').setAttribute('aria-label', selected === 'en' ? 'Main navigation' : 'ಮುಖ್ಯ ಸಂಚರಣೆ');
