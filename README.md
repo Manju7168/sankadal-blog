@@ -40,3 +40,5 @@ The complete source PDF and 13 page images preserve all illustrations, five char
 Report page images have been removed from the blog and assets. The original Kannada report remains downloadable as a PDF. Manjunath Harakatti / ಮಂಜುನಾಥ ಹರಕತ್ತಿ appears in both the header and footer and follows the language selection.
 
 The Religious life and news section and its navigation/card links were removed from both language editions at the owner’s request. The original PDF download remains unchanged.
+
+Two owner-supplied images now appear in the inscription section: the SII XVIII no.288 publication scan and the village satellite screenshot. Each has Kannada and English captions. The map pin is identified as a village label, not a verified temple location.
