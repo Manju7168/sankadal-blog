@@ -22,3 +22,5 @@
 .research-credit{font-size:14px;color:var(--ink);border-left:3px solid var(--accent);padding-left:16px;margin-top:24px}
 
 img{-webkit-user-drag:none;-webkit-touch-callout:none;user-select:none}
+
+.share-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:22px}.share-actions button{font:inherit;font-size:13px;cursor:pointer}.share-actions .primary{border:1px solid var(--ink)}.copy-button{padding:12px 18px;background:transparent;border:1px solid var(--ink);border-radius:4px;color:var(--ink)}#share-status{font-size:12px}#share-link{flex-basis:100%;max-width:380px;padding:10px;font:inherit}.research-credit strong{font-weight:700}
